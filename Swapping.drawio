@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T10:58:35.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="HlfBcK0KIvwrPZnL5c35" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T11:02:18.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="dsmVmMlg8zRGv8CcPltr" version="16.4.5" type="github">
   <diagram id="mXKrz4-EB7H1Jir7QN99" name="Page-1">
     <mxGraphModel dx="1106" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XBL8jyp10QS4CpAVoSZo-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#66B2FF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ram;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="200" height="90.75" as="geometry" />
+          <mxGeometry x="430" y="270" width="200" height="90.75" as="geometry" />
         </mxCell>
         <mxCell id="XBL8jyp10QS4CpAVoSZo-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
-          <mxGeometry x="150" y="272.5" width="72.22" height="97.5" as="geometry" />
+          <mxGeometry x="210" y="270" width="72.22" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="XBL8jyp10QS4CpAVoSZo-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XBL8jyp10QS4CpAVoSZo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="230" y="260" as="sourcePoint" />
             <mxPoint x="410" y="297.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="257.5" />
-              <mxPoint x="190" y="220" />
+              <mxPoint x="250" y="258" />
+              <mxPoint x="260" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBL8jyp10QS4CpAVoSZo-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XBL8jyp10QS4CpAVoSZo-1" target="XBL8jyp10QS4CpAVoSZo-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="349.25" as="sourcePoint" />
+            <mxPoint x="430" y="370" as="sourcePoint" />
             <mxPoint x="190" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="399.25" />
-              <mxPoint x="210" y="399" />
+              <mxPoint x="260" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -35,6 +35,33 @@
         </mxCell>
         <mxCell id="XBL8jyp10QS4CpAVoSZo-7" value="swap-out&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="360.75" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-8" value="&lt;font color=&quot;#ffffff&quot;&gt;P1&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-10" value="&lt;font color=&quot;#ffffff&quot;&gt;P2&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-11" value="&lt;font color=&quot;#ffffff&quot;&gt;P3&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-12" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;P4&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300.38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-14" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-15" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;" edge="1" parent="1" target="XBL8jyp10QS4CpAVoSZo-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-16" value="&lt;font color=&quot;#ffffff&quot;&gt;P100&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBL8jyp10QS4CpAVoSZo-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;P5&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300.38" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
