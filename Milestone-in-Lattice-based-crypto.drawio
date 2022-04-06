@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T08:23:25.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="EGfLM-4W_Q5TbwzgwZGc" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T09:06:30.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="D91-uvANyucrDBD2YEBH" version="17.4.0" type="github">
   <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
     <mxGraphModel dx="786" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,8 +218,8 @@
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-76" value="Lagrange, Minkowski, Gauss, Hermite" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="81" y="160" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lE9tWUVvxa7UO95_J6Bx-77" value="SIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="200" width="30" height="20" as="geometry" />
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-77" value="Mathematics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-78" value="17th-18th century" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="130" y="176" width="120" height="20" as="geometry" />
