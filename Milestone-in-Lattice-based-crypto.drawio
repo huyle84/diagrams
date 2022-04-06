@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T06:08:21.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" version="17.4.0" etag="w_M-MHoaJoh0k76sl0hY" type="github"><diagram id="51nVPeMaprPgW2fDRWtM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T06:14:56.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="2UA8zBP7OzB3nWFYYJ2t" version="17.4.0" type="github">
+  <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
+    <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="590" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-2" value="[Ajitai&#39;96]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-3" value="SIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="280" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-5" value="[Reg&#39;05]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-8" value="LWE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-9" value="Gentry 08" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-10" value="Lattice trapdoors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-11" value="Micciancio 12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-12" value="New lattice trapdoors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="280" as="sourcePoint" />
+            <mxPoint x="550" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-15" value="[IBE]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-16" value="Micciancio 07" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-17" value="Worst-case &lt;br&gt;to Average case&lt;br&gt;Reduction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
