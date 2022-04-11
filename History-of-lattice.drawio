@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:02:44.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="tE9RSLsLCRMCnu2ZMCKF" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:03:33.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="krn6SekNvoLwi15wA-4y" version="17.4.0" type="github">
   <diagram id="xunmXSSXhzcm69lFybiw" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="76" y="210" width="40" height="50" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="210" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;18th-Early 20th Centuries:&lt;/b&gt; &amp;nbsp;Lattices as a mathematical topic &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="112" y="231" width="400" height="20" as="geometry" />
@@ -16,8 +16,8 @@
             <mxPoint x="89.15999999999997" y="298.35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="72" y="292" width="40" height="50" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="292" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Early 1980s:&lt;/b&gt; &amp;nbsp;LLL algorithm and applications&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="108" y="312" width="300" height="20" as="geometry" />
@@ -28,8 +28,8 @@
             <mxPoint x="89.99999999999991" y="483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="76" y="371" width="40" height="50" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="371" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Early 1980s:&lt;/b&gt; &amp;nbsp;Foundation of lattice-based Cryptography&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="111" y="393" width="370" height="20" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-10" value="&lt;div style=&quot;text-align: left&quot;&gt;- [Ajt96]: SIS, reduction from worst-case, one-way function&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- [AD97]: first PKE&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- [GGH97] GGH encryption and GGH signatures&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- [HPS98]: NTRUEncrypt&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="116" y="414" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="76" y="482" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;2000s:&lt;/b&gt; &amp;nbsp;Lattices as a computational topic &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-13" value="&lt;div&gt;- [Mic02]: &amp;nbsp; Ring SIS&lt;/div&gt;&lt;div&gt;- [Reg03]: &amp;nbsp;Gaussian measures, harmonic analysis over lattices, PKE&lt;/div&gt;&lt;div&gt;- [MR04]: &amp;nbsp; Worst-case to average case reduction using Gaussian measures&lt;/div&gt;&lt;div&gt;- [Reg05]: &amp;nbsp;LWE, first PKE&lt;b&gt; &lt;/b&gt;based on LWE (Regev PKE), reduction from worst-case problems to LWE&lt;/div&gt;&lt;div&gt;- [GPV08]: Lattice trapdoors based on short bases- hash and sign signatures,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&lt;/b&gt;BE, dual Regev PKE&lt;/div&gt;&lt;div&gt;- [Gen09]: &amp;nbsp;FHE from ideal lattices&lt;/div&gt;&lt;div&gt;- [SSTX09]: PLWE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="111" y="529" width="550" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="76" y="642" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;2010s-present:&lt;/b&gt; &amp;nbsp;Lattices as a computational topic &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
