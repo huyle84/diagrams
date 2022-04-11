@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:45:14.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="0FHmDWJLVDPbBJccvPGh" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:47:16.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="-hT0wRmUL0cDv6RFQAwF" version="17.4.0" type="github">
   <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -215,10 +215,10 @@
           <mxGeometry x="70" y="203" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-95" value="$$\gamma$$&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="235" y="331" width="90" height="20" as="geometry" />
+          <mxGeometry x="233" y="332" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-98" value="$$\gamma$$&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="285" y="332" width="90" height="20" as="geometry" />
+          <mxGeometry x="283" y="332" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-101" value="Quantum reduction &lt;br style=&quot;font-size: 14px;&quot;&gt;of LWE from &amp;nbsp; &amp;nbsp;-SIVP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="388" y="293" width="140" height="40" as="geometry" />
