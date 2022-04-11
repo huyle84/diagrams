@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:15:59.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="EbA7vELSa4fv0VFitSu6" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:17:30.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="BrsOJygvvejTT39yuDxZ" version="17.4.0" type="github">
   <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -148,7 +148,7 @@
           <mxGeometry x="201" y="570" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-52" value="MPLWE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="191" y="594" width="60" height="20" as="geometry" />
+          <mxGeometry x="191" y="604" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-58" value="Rosca et al.&lt;br&gt;[RSSS17]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="182" y="534" width="80" height="30" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="278" y="331" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-101" value="Quantum reduction &lt;br&gt;of LWE from &amp;nbsp;&amp;nbsp;-SIVP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="398" y="302" width="120" height="30" as="geometry" />
+          <mxGeometry x="398" y="298" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-102" value="2013" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="562" y="411" width="40" height="20" as="geometry" />
@@ -336,8 +336,8 @@
         <mxCell id="2bSEBsdkKDcWPiNqAsUI-1" value="2015" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="79" y="570" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2bSEBsdkKDcWPiNqAsUI-2" value="MLWE + MSIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="54" y="594" width="90" height="20" as="geometry" />
+        <mxCell id="2bSEBsdkKDcWPiNqAsUI-2" value="MLWE + MSIS&lt;br&gt;(module lattices)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="44" y="591" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2bSEBsdkKDcWPiNqAsUI-3" value="Langlois &amp;amp; Stehle&lt;br&gt;[LS15]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="45" y="534" width="110" height="30" as="geometry" />
