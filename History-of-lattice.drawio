@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:04:06.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="E93_7U2j-WDwPVgudjWj" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:06:48.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="QyxlroygpGtgFsq39p8O" version="17.4.0" type="github">
   <diagram id="xunmXSSXhzcm69lFybiw" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="72" y="292" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Early 1980s:&lt;/b&gt; &amp;nbsp;LLL algorithm and applications&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="108" y="312" width="300" height="20" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;1980s:&lt;/b&gt; &amp;nbsp;LLL algorithm and applications&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111" y="312" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,8 +31,8 @@
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="73" y="371" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Early 1980s:&lt;/b&gt; &amp;nbsp;Foundation of lattice-based Cryptography&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="111" y="393" width="370" height="20" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;1990s:&lt;/b&gt; &amp;nbsp;Foundation of Lattice-based Cryptography&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118" y="393" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;- Gauss, Lagrange: in number theory&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;- Minkowski: &quot;Geometry of numbers&quot;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="118" y="246" width="210" height="40" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.scheduler;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="76" y="482" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XsHCE-pi_SLKDP9s6OUL-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;2000s:&lt;/b&gt; &amp;nbsp;Lattices as a computational topic &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="118" y="504" width="280" height="20" as="geometry" />
+        <mxCell id="XsHCE-pi_SLKDP9s6OUL-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;2000s:&lt;/b&gt; &amp;nbsp;Lattices&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="118" y="504" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XsHCE-pi_SLKDP9s6OUL-13" value="&lt;div&gt;- [Mic02]: &amp;nbsp; Ring SIS&lt;/div&gt;&lt;div&gt;- [Reg03]: &amp;nbsp;Gaussian measures, harmonic analysis over lattices, PKE&lt;/div&gt;&lt;div&gt;- [MR04]: &amp;nbsp; Worst-case to average case reduction using Gaussian measures&lt;/div&gt;&lt;div&gt;- [Reg05]: &amp;nbsp;LWE, first PKE&lt;b&gt; &lt;/b&gt;based on LWE (Regev PKE), reduction from worst-case problems to LWE&lt;/div&gt;&lt;div&gt;- [GPV08]: Lattice trapdoors based on short bases- hash and sign signatures,&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&lt;/b&gt;BE, dual Regev PKE&lt;/div&gt;&lt;div&gt;- [Gen09]: &amp;nbsp;FHE from ideal lattices&lt;/div&gt;&lt;div&gt;- [SSTX09]: PLWE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="111" y="529" width="550" height="130" as="geometry" />
