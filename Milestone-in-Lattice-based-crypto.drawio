@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:43:26.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="Op4X65Rz_O0N75QtdhMc" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:45:14.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="0FHmDWJLVDPbBJccvPGh" version="17.4.0" type="github">
   <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -186,8 +186,8 @@
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-77" value="Mathematical aspect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF8000;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="296" y="163" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lE9tWUVvxa7UO95_J6Bx-78" value="18th-19th century" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="306" y="147" width="120" height="20" as="geometry" />
+        <mxCell id="lE9tWUVvxa7UO95_J6Bx-78" value="18th- early 20th centuries" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="281" y="147" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lE9tWUVvxa7UO95_J6Bx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lE9tWUVvxa7UO95_J6Bx-77" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -351,11 +351,11 @@
         <mxCell id="2bSEBsdkKDcWPiNqAsUI-7" value="Many advanced &lt;br style=&quot;font-size: 14px;&quot;&gt;cryptosystems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="608" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2bSEBsdkKDcWPiNqAsUI-8" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-size: 14px&quot;&gt;Lenstra et al.&amp;nbsp;[LLL82]&lt;br&gt;LLL,&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="399" y="191" width="140" height="40" as="geometry" />
+        <mxCell id="2bSEBsdkKDcWPiNqAsUI-8" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-size: 14px&quot;&gt;Lenstra et al.&amp;nbsp;[LLL82]&lt;b&gt;&lt;br&gt;LLL algorithm&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="191" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bSEBsdkKDcWPiNqAsUI-9" value="1982" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="365" y="193" width="40" height="20" as="geometry" />
+          <mxGeometry x="332" y="193" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
