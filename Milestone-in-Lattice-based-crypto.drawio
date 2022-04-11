@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T11:15:14.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="rqtxmsJEO9cSEDjMMufp" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T11:15:34.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="d6ttppu9AJjVoBcdhllU" version="17.4.0" type="github">
   <diagram id="51nVPeMaprPgW2fDRWtM" name="Page-1">
     <mxGraphModel dx="786" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -287,7 +287,7 @@
           <mxGeometry x="61" y="382" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fDqLfUqXNIqrvAbr0P-5-1" value="random lattices &lt;br&gt;with short vectors&lt;br&gt;(&lt;b&gt;one-way function&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="39" y="304" width="120" height="50" as="geometry" />
+          <mxGeometry x="39" y="305" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fDqLfUqXNIqrvAbr0P-5-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
