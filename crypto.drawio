@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T15:01:34.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="B0lzul4RPY43YAM_kN5e" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T15:20:55.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="4mFcaR9kUyUbkomxKN7F" version="21.1.4" type="github">
   <diagram name="Page-1" id="Qj5v4JCtX8cRMkB14Dfi">
-    <mxGraphModel dx="548" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SHC6fzrVvuHxgRFKBfnp-2" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SHC6fzrVvuHxgRFKBfnp-2" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="654" y="258" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHC6fzrVvuHxgRFKBfnp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SHC6fzrVvuHxgRFKBfnp-6" target="SHC6fzrVvuHxgRFKBfnp-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SHC6fzrVvuHxgRFKBfnp-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" vertex="1" parent="1">
           <mxGeometry x="190" y="225" width="40" height="50" as="geometry" />
@@ -25,13 +28,13 @@
         <mxCell id="SHC6fzrVvuHxgRFKBfnp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SHC6fzrVvuHxgRFKBfnp-11" target="SHC6fzrVvuHxgRFKBfnp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SHC6fzrVvuHxgRFKBfnp-11" value="Alice&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SHC6fzrVvuHxgRFKBfnp-11" value="Alice&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="140" y="254" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SHC6fzrVvuHxgRFKBfnp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SHC6fzrVvuHxgRFKBfnp-13" target="SHC6fzrVvuHxgRFKBfnp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SHC6fzrVvuHxgRFKBfnp-13" value="Encryption&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="SHC6fzrVvuHxgRFKBfnp-13" value="Encryption&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="290" y="238" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SHC6fzrVvuHxgRFKBfnp-14" value="encryption key&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -48,7 +51,7 @@
             <mxPoint x="650" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SHC6fzrVvuHxgRFKBfnp-20" value="Decryption" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="SHC6fzrVvuHxgRFKBfnp-20" value="Decryption" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e392fe;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SHC6fzrVvuHxgRFKBfnp-22" value="decryption key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
