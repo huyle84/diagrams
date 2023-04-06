@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T16:24:46.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="uUJKHZorZ0VZteldtU_K" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T16:34:18.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="BhJPgQxmTIRZMEZXR4jK" version="21.1.4" type="github">
   <diagram name="Page-1" id="AAvzjl_G8_hogUcquGgX">
     <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="5TyspnM6EkN6XJlToiuW-4" value="&lt;font color=&quot;#ff0000&quot;&gt;security reduction&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5TyspnM6EkN6XJlToiuW-6" value="If&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="5TyspnM6EkN6XJlToiuW-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Reasoning Principle:&lt;/b&gt;&amp;nbsp; If an adversary can break the security of the cryptosystem then one can solve the hard problem instance&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;How?&amp;nbsp;&lt;/b&gt;We should embed the problem into the corresponding security game in such a way that we can exploit the power of the adversary.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="450" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
