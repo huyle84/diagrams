@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T15:14:27.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="g44NbY5kvUCqgrdXHl0j" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T15:17:09.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="pYMGNhzW4q3dd_GxVN_d" version="21.1.4" type="github">
   <diagram name="Page-1" id="sksG6t6bVZXev0yr0DiC">
     <mxGraphModel dx="662" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,9 +65,6 @@
         <mxCell id="ZEYZ70mh66beEiMZWsyL-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
           <mxGeometry x="474" y="157" width="31" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZEYZ70mh66beEiMZWsyL-20" value="Alice si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="565" y="245" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZEYZ70mh66beEiMZWsyL-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-57-128.png" vertex="1" parent="1">
           <mxGeometry x="370" y="355" width="60" height="60" as="geometry" />
         </mxCell>
@@ -81,7 +78,7 @@
           <mxGeometry x="513" y="357" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZEYZ70mh66beEiMZWsyL-26" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="670" y="194" width="90" height="60" as="geometry" />
+          <mxGeometry x="680" y="180" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZEYZ70mh66beEiMZWsyL-27" value="Alice&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#00f900;" vertex="1" parent="1">
           <mxGeometry x="710" y="200" width="10" height="15" as="geometry" />
