@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T04:51:13.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" version="21.1.4" etag="OOjYsoW5e1Y3xtayf2N9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T04:52:48.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="uZPiPcIfqG9F5dMjdnMe" version="21.1.4" type="github">
   <diagram name="Page-1" id="WID_qObcg9f_dscNTk-j">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-1" value="&lt;b&gt;SIS&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-2" value="LWE" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIWeeooON2Rnc4zqfjq7-3" target="UIWeeooON2Rnc4zqfjq7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIWeeooON2Rnc4zqfjq7-3" target="UIWeeooON2Rnc4zqfjq7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-3" value="SIVP" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UIWeeooON2Rnc4zqfjq7-4" target="UIWeeooON2Rnc4zqfjq7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIWeeooON2Rnc4zqfjq7-4" value="GapSVP" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
