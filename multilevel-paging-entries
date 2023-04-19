@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T08:28:42.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="8pGGq-kvuEKJKqydWmCi" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T08:34:05.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="yv8MALc9zbEjHgMZvbk3" version="21.1.9" type="github">
   <diagram name="Page-1" id="jYGXHj50hxji9LG0SnyQ">
-    <mxGraphModel dx="597" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="60" y="134" width="20" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-50" value="2&lt;sup&gt;nd&lt;/sup&gt;-outer page table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-61" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="90" y="38" width="240" height="40" as="geometry" />
@@ -530,6 +530,18 @@
             <mxPoint x="345" y="334" as="sourcePoint" />
             <mxPoint x="344.9999999999999" y="297" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-229" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size: 12.499999046325684px;&quot;&gt;&lt;sup&gt;22&lt;/sup&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;pages&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-230" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="610" y="73" width="20" height="637" as="geometry" />
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-231" value="1&lt;sup&gt;st&lt;/sup&gt;--outer page table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-232" value="inner page table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
