@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T08:48:34.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="vbOdr1zRFvj-oZQT-74t" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T08:49:55.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="tP2mrRkNgBAqOTrZbrcw" version="21.1.9" type="github">
   <diagram name="Page-1" id="jYGXHj50hxji9LG0SnyQ">
-    <mxGraphModel dx="1023" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,12 +84,13 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HuOTVxQ60LRv84i5cK1F-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuOTVxQ60LRv84i5cK1F-68" target="HuOTVxQ60LRv84i5cK1F-112">
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="320" as="targetPoint" />
+            <mxPoint x="230" y="412" as="targetPoint" />
+            <mxPoint x="200" y="238" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="220" y="229" />
-              <mxPoint x="220" y="403" />
+              <mxPoint x="220" y="238" />
+              <mxPoint x="220" y="412" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,22 +163,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-112" value="p&lt;sub&gt;1&lt;/sub&gt;-th page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="388" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="398" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HuOTVxQ60LRv84i5cK1F-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.384;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HuOTVxQ60LRv84i5cK1F-62" target="HuOTVxQ60LRv84i5cK1F-89">
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.384;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="104" as="sourcePoint" />
-            <mxPoint x="217" y="239" as="targetPoint" />
+            <mxPoint x="182.16000000000008" y="96.51999999999998" as="sourcePoint" />
+            <mxPoint x="310" y="389.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="80" />
-              <mxPoint x="180" y="120" />
-              <mxPoint x="240" y="120" />
-              <mxPoint x="240" y="373" />
+              <mxPoint x="180" y="97" />
+              <mxPoint x="180" y="137" />
+              <mxPoint x="240" y="137" />
+              <mxPoint x="240" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-114" value="p&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;-th entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="308" y="357" width="70" height="30" as="geometry" />
+          <mxGeometry x="308" y="377" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-128" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="320" y="411" width="70" height="20" as="geometry" />
@@ -582,6 +583,12 @@
         </mxCell>
         <mxCell id="HuOTVxQ60LRv84i5cK1F-244" value="2&lt;sup&gt;10&lt;/sup&gt;-th entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-245" value="1-th entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313" y="339" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuOTVxQ60LRv84i5cK1F-246" value="2&lt;sup&gt;12&lt;/sup&gt;-th entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308" y="430" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
