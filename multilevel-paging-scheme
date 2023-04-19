@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T06:03:44.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="Y0dX5Kpm3-F7F4cOTm3W" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T06:04:20.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="1tc_hi4dJQYa2wiCfrrV" version="21.1.9" type="github">
   <diagram name="Page-1" id="8GPN7FyyuPV3HSA6kn8O">
     <mxGraphModel dx="1023" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,13 +234,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-53" value="&lt;b&gt;Inner Page Table&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-53" value="&lt;b&gt;&lt;font color=&quot;#660066&quot;&gt;Inner Page Table&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-55" value="&lt;b&gt;1st-&lt;br&gt;&amp;nbsp;Outer Page Table&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-55" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;1st-&lt;br&gt;&amp;nbsp;Outer Page Table&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-56" value="&lt;b&gt;2nd- Outer Page Table&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9ElrEAMBFwzDQ2HBuM7t-56" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;2nd- Outer Page Table&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ElrEAMBFwzDQ2HBuM7t-57" value="Logical Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
