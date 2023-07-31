@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T23:58:11.529Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="p2L10E-oDwwpVrL9pfg-" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T23:58:45.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="IuKg96pkCit2YPD8aLqs" version="21.6.6" type="github">
   <diagram name="Page-1" id="a2SZ6WP-wNjvYIx0AkOO">
     <mxGraphModel dx="754" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="QWbtCQc69UfCISLxmmAF-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/19_Business_Solution-128.png;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="44.86" y="120.96000000000001" width="268.09" height="268.09" as="geometry" />
         </mxCell>
-        <mxCell id="QWbtCQc69UfCISLxmmAF-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+        <mxCell id="QWbtCQc69UfCISLxmmAF-1" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="57.82" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QWbtCQc69UfCISLxmmAF-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#E6D0DE;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/puzzle-solution-problem-challenge-resolution-128.png;rotation=-90;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="414" y="139" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QWbtCQc69UfCISLxmmAF-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/light-bulb-on-128.png;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="QWbtCQc69UfCISLxmmAF-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/light-bulb-on-128.png;fontColor=#FF0000;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="482" y="189.5" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="QWbtCQc69UfCISLxmmAF-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.42;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293.9499999999998" y="255.0021612062941" as="sourcePoint" />
-            <mxPoint x="396" y="255" as="targetPoint" />
+            <mxPoint x="289.9499999999998" y="255.0021612062941" as="sourcePoint" />
+            <mxPoint x="392" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
