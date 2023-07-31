@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T23:55:36.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="lXap8UDbCm-cwBdiDpxY" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T23:56:03.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="hinZWUYuRuMLtxqT24R0" version="21.6.6" type="github">
   <diagram name="Page-1" id="a2SZ6WP-wNjvYIx0AkOO">
     <mxGraphModel dx="754" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="QWbtCQc69UfCISLxmmAF-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/puzzle-solution-problem-challenge-resolution-128.png;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="414" y="139" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QWbtCQc69UfCISLxmmAF-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/light-bulb-on-128.png" vertex="1" parent="1">
+        <mxCell id="QWbtCQc69UfCISLxmmAF-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/light-bulb-on-128.png;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="482" y="189.5" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="QWbtCQc69UfCISLxmmAF-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.42;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1">
