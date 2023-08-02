@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T22:34:49.355Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" version="21.6.6" etag="WnOZHdPnJqQLaWX-8uZZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T22:36:47.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="uPP4gEM82u-oOopx1bXq" version="21.6.6" type="github">
   <diagram name="Page-1" id="NvX1mIWv7IzjzRvXlC-u">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yGH7-LtppMJvKh4XCVfG-1" value="Breaking Assumption" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGH7-LtppMJvKh4XCVfG-2" value="Simulation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="206" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGH7-LtppMJvKh4XCVfG-3" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGH7-LtppMJvKh4XCVfG-4" value="Analysis" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGH7-LtppMJvKh4XCVfG-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=10.3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="163" as="sourcePoint" />
+            <mxPoint x="219.5" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
