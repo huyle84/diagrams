@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T18:03:27.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="XGUtfIfoo1ZJHzBSYK_l" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T03:09:51.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="Yb1-pBriv5rVPGD20YhC" version="21.6.6" type="github">
   <diagram name="Page-1" id="NF6ivh4o99uBjlJVRrtY">
-    <mxGraphModel dx="454" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ljPPQx2169VtEfR4bWio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ljPPQx2169VtEfR4bWio-1" target="ljPPQx2169VtEfR4bWio-2">
+        <mxCell id="ljPPQx2169VtEfR4bWio-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" parent="1" source="ljPPQx2169VtEfR4bWio-1" target="ljPPQx2169VtEfR4bWio-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ljPPQx2169VtEfR4bWio-1" value="Problem P is reducible to a proposed scheme S&amp;nbsp;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ljPPQx2169VtEfR4bWio-1" value="Problem P is reducible to a proposed scheme S&amp;nbsp;" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="290" y="290" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ljPPQx2169VtEfR4bWio-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="ljPPQx2169VtEfR4bWio-2" target="ljPPQx2169VtEfR4bWio-3">
+        <mxCell id="ljPPQx2169VtEfR4bWio-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;" parent="1" source="ljPPQx2169VtEfR4bWio-2" target="ljPPQx2169VtEfR4bWio-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ljPPQx2169VtEfR4bWio-2" value="Problem instance xP can be used to “simulate” a scheme of S" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+        <mxCell id="ljPPQx2169VtEfR4bWio-2" value="Problem instance insP can be used to “simulate” a scheme of S" style="text;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" parent="1" vertex="1">
           <mxGeometry x="290" y="350" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ljPPQx2169VtEfR4bWio-3" value="Breaking the simulated scheme can be transformed to solution yP" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="ljPPQx2169VtEfR4bWio-3" value="Breaking the simulated scheme can be transformed to solution solP" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="280" y="410" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
