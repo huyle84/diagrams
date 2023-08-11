@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T17:39:18.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="cCi9cJCfCDOIePim1Jcc" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T17:47:03.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="mRBSROeRqBKYod-edQoQ" version="21.6.6" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
     <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -40,20 +40,26 @@
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-12" value="$$v_f$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="334" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-13" value="$$L_2$$ normalisation $$\|W\|=1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="244" y="249" width="220" height="30" as="geometry" />
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-13" value="$$L_2$$ normalisation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="379" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-14" value="rescale" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="70" height="60" as="geometry" />
+          <mxGeometry x="390" y="149" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-15" value="rescale" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="320" width="70" height="60" as="geometry" />
+          <mxGeometry x="390" y="319" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-16" value="$$s$$&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-17" value="$$s$$&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="150" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-21" value="last fully &lt;br&gt;connected layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213" y="364" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
