@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T17:58:13.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="J8_IJ0VAVmtrvb672eNP" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T17:58:40.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="qefu6XfynF7tDT2oLz3c" version="21.6.6" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
     <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-35" value="$$m_1$$&lt;br&gt;&amp;nbsp;$$m_2$$&lt;br&gt;$$ m_3$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="660" y="214" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-36" value="$$m_1\theta_x+m_2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
