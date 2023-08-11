@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T18:34:01.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="5XQc-UXyl-ioIvgC4mDS" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T18:38:33.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="cdfmj4TVhKYxWSRCsbdY" version="21.6.6" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
-    <mxGraphModel dx="1961" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1621" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,8 +117,8 @@
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-42" value="$$\times s$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="139.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-43" value="$$s\cdot (\cos(m_1\theta_r+m_2)-\cos(\theta_f)-m_3)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="919" y="178" width="320" height="30" as="geometry" />
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-43" value="$$s\cdot(\cos(m_1\theta_r+m_2)-\cos(\theta_f)-m_3)$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="922" y="178" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-46" value="$$-m_3$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="865" y="140" width="80" height="30" as="geometry" />
@@ -226,8 +226,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-77" value="$$s\cdot (\cos(\theta_f)-\cos(m_1\theta_r+m_2)-m_3)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="922" y="270" width="320" height="30" as="geometry" />
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-77" value="$$s\cdot(\cos(\theta_f)-\cos(m_1\theta_r+m_2)-m_3)$$" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="921" y="270" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-79" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eBeKBzGC5ox2PPIOp6xQ-7">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="1040" y="178" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="120" />
+              <mxPoint x="590" y="120" />
+              <mxPoint x="155" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-80" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.366;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eBeKBzGC5ox2PPIOp6xQ-77">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="975" y="328" as="sourcePoint" />
+            <mxPoint x="90" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1039" y="410" />
+              <mxPoint x="90" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
