@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T18:12:53.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="uQO1DGFYNMX3xl0s6oTC" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T18:13:08.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="hy0cHO-b3a5OA5D0o4TS" version="21.6.6" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
     <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;$$z$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="364" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="164" width="70" height="200" as="geometry" />
@@ -102,9 +99,6 @@
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-40" value="cos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="826" y="139.5" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-41" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="185" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-42" value="$$\times s$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="841" y="139.5" width="90" height="30" as="geometry" />
