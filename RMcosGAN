@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T04:47:17.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="Mc62l8wscI17UtEESCB8" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T04:47:53.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="i4R6jgUUUn9j87jUbHG9" version="21.6.6" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
     <mxGraphModel dx="1761" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -274,17 +274,17 @@
             <mxPoint x="859" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZaAviHIk9-vwJ_68eKq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JZaAviHIk9-vwJ_68eKq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="926" y="178" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JZaAviHIk9-vwJ_68eKq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JZaAviHIk9-vwJ_68eKq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="926" y="271" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JZaAviHIk9-vwJ_68eKq-4" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ff0000&quot;&gt;$$s\cdot(\cos(m_1\theta_f+m_2)-\cos(\theta_f)-m_3)$$&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="272" width="410" height="30" as="geometry" />
+          <mxGeometry x="933" y="273" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JZaAviHIk9-vwJ_68eKq-5" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ff0000&quot;&gt;$$s\cdot(\cos(m_1\theta_r+m_2)-\cos(\theta_f)-m_3)$$&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="176.5" width="410" height="30" as="geometry" />
+          <mxGeometry x="933" y="178" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
