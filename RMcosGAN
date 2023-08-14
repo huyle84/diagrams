@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T15:04:53.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="sE8zHMHSYdAxcmyh2mO5" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T15:05:19.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="_F_dRs_hhTkj_c4TIkMM" version="21.6.8" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
-    <mxGraphModel dx="1205" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1621" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,15 +14,15 @@
           <mxGeometry x="235" y="164" width="70" height="200" as="geometry" />
         </mxCell>
         <mxCell id="eBeKBzGC5ox2PPIOp6xQ-5" value="$$f:=G_{\theta}(z)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="120" y="265" width="60" height="30" as="geometry" />
+          <mxGeometry x="108" y="268" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eBeKBzGC5ox2PPIOp6xQ-6" target="eBeKBzGC5ox2PPIOp6xQ-7" edge="1">
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eBeKBzGC5ox2PPIOp6xQ-6" target="eBeKBzGC5ox2PPIOp6xQ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="128" y="315" as="sourcePoint" />
-            <mxPoint x="140" y="250" as="targetPoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="315" />
-              <mxPoint x="140" y="240" />
+              <mxPoint x="130" y="315" />
+              <mxPoint x="130" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
