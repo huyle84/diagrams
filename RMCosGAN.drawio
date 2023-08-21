@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T15:56:16.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="0qg6hSq4Hq72Ps7Olf4O" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T15:58:35.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="tZw-oDD5qY7ZBR8IaRsJ" version="21.6.8" type="github">
   <diagram name="Page-1" id="L5gE9TaHChZpEfNY-t2x">
     <mxGraphModel dx="882" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="UZf72PWpk065BYjZ_3hO-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="279.5" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZf72PWpk065BYjZ_3hO-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.083;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -91,7 +91,7 @@
         <mxCell id="ebqqvcWVVmoioaNN8tBe-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="412" y="280.5" as="sourcePoint" />
-            <mxPoint x="772" y="281" as="targetPoint" />
+            <mxPoint x="720" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ebqqvcWVVmoioaNN8tBe-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.083;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ebqqvcWVVmoioaNN8tBe-34" value="For generator:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="411" width="95.5" height="30" as="geometry" />
+          <mxGeometry x="461" y="411" width="95.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebqqvcWVVmoioaNN8tBe-35" value="$$\cos(\theta_f)&amp;gt;\cos(\theta_r) +m$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="411" width="60" height="30" as="geometry" />
