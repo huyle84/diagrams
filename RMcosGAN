@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T09:29:09.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="nyRUILSsZVwuXjibGkTC" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T09:30:16.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="qP9LJYSSzSQ6pspgnCQV" version="21.6.8" type="github">
   <diagram name="Page-1" id="ijLeb5HEXQhatlQfrv22">
     <mxGraphModel dx="1714" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -203,23 +203,23 @@
             <mxPoint x="617" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-79" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;dashed=1;fontSize=14;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.411;exitY=-0.053;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5qUf6AP-FXbHyL5FmtsT-13" target="eBeKBzGC5ox2PPIOp6xQ-6" edge="1">
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-79" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;dashed=1;fontSize=14;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.457;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5qUf6AP-FXbHyL5FmtsT-13" target="eBeKBzGC5ox2PPIOp6xQ-6" edge="1">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="1017.1500000000001" y="177.01" as="sourcePoint" />
             <mxPoint x="1.5" y="208" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="767" y="110" />
+              <mxPoint x="807" y="110" />
               <mxPoint x="436.5" y="108" />
               <mxPoint x="20" y="108" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-80" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;dashed=1;fontSize=14;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" target="eBeKBzGC5ox2PPIOp6xQ-7" edge="1">
+        <mxCell id="eBeKBzGC5ox2PPIOp6xQ-80" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=2;dashed=1;fontSize=14;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.46;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="eBeKBzGC5ox2PPIOp6xQ-7" edge="1" source="JZaAviHIk9-vwJ_68eKq-3">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="767" y="340" as="sourcePoint" />
             <mxPoint x="27" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="767" y="410" />
+              <mxPoint x="807" y="410" />
               <mxPoint x="107" y="410" />
             </Array>
           </mxGeometry>
@@ -239,7 +239,7 @@
             <mxPoint x="645" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JZaAviHIk9-vwJ_68eKq-3" value="$$B=s\cdot(\cos(m_1\cdot \theta_f+m_2)&lt;br&gt;\\$$$$-\cos(\theta_r)-m_3)$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="JZaAviHIk9-vwJ_68eKq-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;$$B=s\cdot(\cos(m_1\cdot \theta_f+m_2)&lt;br&gt;\\$$$$-\cos(\theta_r)-m_3)$$&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="728" y="280" width="172" height="57" as="geometry" />
         </mxCell>
         <mxCell id="JZaAviHIk9-vwJ_68eKq-10" value="$$\theta_f$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -360,7 +360,7 @@
         <mxCell id="5qUf6AP-FXbHyL5FmtsT-7" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;$$L_2$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="192" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5qUf6AP-FXbHyL5FmtsT-13" value="$$A=s\cdot(\cos(m_1\cdot \theta_r+m_2)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;\\$$$$-\cos(\theta_f)-m_3)$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5qUf6AP-FXbHyL5FmtsT-13" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;$$A=s\cdot(\cos(m_1\cdot \theta_r+m_2)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;\\$$$$-\cos(\theta_f)-m_3)$$&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="729" y="180" width="171" height="57" as="geometry" />
         </mxCell>
         <mxCell id="5qUf6AP-FXbHyL5FmtsT-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
