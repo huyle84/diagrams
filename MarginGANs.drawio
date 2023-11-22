@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T14:49:57.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="3T-VFPil0hBzKTz5mFTD" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T14:50:48.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="P6qkU5G29nKuN9ZOLNnL" version="22.1.3" type="github">
   <diagram name="Page-1" id="EuLfDXoeXgADx2S9hT4u">
     <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="5500" math="1" shadow="0">
       <root>
@@ -119,8 +119,8 @@
         <mxCell id="J574YpdcSMkNGBud1Ear-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Real data space&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="67" y="263" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J574YpdcSMkNGBud1Ear-33" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;In MarginGANs, the discriminator and generator resemble themself in GANs.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;However, classifier increases the margin of real data &lt;br&gt;and reduces the margin of fake data&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="46.040000000000006" y="590" width="770" height="90" as="geometry" />
+        <mxCell id="J574YpdcSMkNGBud1Ear-33" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;In MarginGANs, the discriminator classifies data as real or fake.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Additionally, classifier increases the margin of real data &amp;nbsp;&lt;br&gt;and reduces the margin of fake data&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111.04" y="590" width="640" height="90" as="geometry" />
         </mxCell>
         <mxCell id="J574YpdcSMkNGBud1Ear-34" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#009900;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="632" y="195" width="30" height="69" as="geometry" />
