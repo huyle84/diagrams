@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T02:42:04.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="Q8dHK3PCWuFNkfXdRuP0" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T02:44:20.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="PuHnBIfJcRPjqXPpzdvY" version="22.1.4" type="github">
   <diagram name="Page-1" id="yyJ5ygHZg1bWjQ__RXro">
-    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="5500" math="1" shadow="0">
+    <mxGraphModel dx="819" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3200" pageHeight="5500" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W6qQ8bPyBbKdKw73j6yu-1" value="&amp; \mathcal{L}_D^{RMCos\_SSL} =&#xa;    -\log(\sigma(s \cdot (\cos(\zeta_r) - \cos(\zeta_f)-m_1))) \nonumber\\&#xa;    &amp;\mathcal{L}_G^{RMCos\_SSL} = -(1-\alpha) \cdot \sum_{i=1}^{K}\hat{y}_i^{[g]} \log(C(G(\boldsymbol{z}))_i) \nonumber\\&#xa;    &amp; \quad \quad \quad -\alpha \cdot \log(\sigma(s\cdot  (\cos(\zeta_f) - \cos(\zeta_r)-m_1)))." style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="W6qQ8bPyBbKdKw73j6yu-1" value="$$ \mathcal{L}_D^{RMCos\_SSL} =&#xa;    -\log(\sigma(s \cdot (\cos(\zeta_r) - \cos(\zeta_f)-m_1)))$$&#xa; " style="text;whiteSpace=wrap;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="190" y="1920" width="560" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="W6qQ8bPyBbKdKw73j6yu-2" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;$$\mathcal{L}_G^{RMCos\_SSL} = -(1-\alpha) \cdot \sum_{i=1}^{K}\hat{y}_i^{[g]} \log(C(G(\boldsymbol{z}))_i) &amp;nbsp;-\alpha \cdot \log(\sigma(s\cdot &amp;nbsp;(\cos(\zeta_f) - \cos(\zeta_r)-m_1)))$$&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1940" width="560" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
