@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T01:58:35.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="_X7E7pDuY_DTcnGw4FIm" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T01:58:58.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="lDYM7yrJt2aDiUnQ3S46" version="24.2.7" type="github">
   <diagram name="Page-1" id="U8wQcLiuiN57d0TRx89D">
     <mxGraphModel dx="794" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="y-DAU9p7zFEA_xPzc4Ig-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-5" value="Tự vệ" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
