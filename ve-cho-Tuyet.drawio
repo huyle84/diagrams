@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T02:32:56.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="zZcnG-Zas2Ew2pVRE1Gn" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T02:34:06.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="9zDpgiqjkgne8bSFFlDc" version="24.2.7" type="github">
   <diagram name="Page-1" id="U8wQcLiuiN57d0TRx89D">
     <mxGraphModel dx="794" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-1" value="Cản trở sự phát triển của bản thân" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-1" value="&lt;b&gt;Cản trở sự phát triển của bản thân&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-2" value="Hình ảnh bản thân khác trải nghiệm thực tế" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="110" height="80" as="geometry" />
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hình ảnh bản thân khác trải nghiệm thực tế&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-3" value="Lo lắng về nhận xét của người khác" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lo lắng về nhận xét của người khác&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-4" value="Bóp méo sự thật" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Bóp méo sự thật&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-6" value="Tự vệ" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="y-DAU9p7zFEA_xPzc4Ig-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Tự vệ&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y-DAU9p7zFEA_xPzc4Ig-10" value="" style="curved=1;endArrow=classic;html=1;rounded=2;" edge="1" parent="1">
@@ -24,7 +24,7 @@
             <mxPoint x="470" y="120" as="sourcePoint" />
             <mxPoint x="610" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="110" />
+              <mxPoint x="570" y="110" />
               <mxPoint x="600" y="160" />
             </Array>
           </mxGeometry>
@@ -44,8 +44,8 @@
             <mxPoint x="490" y="410" as="sourcePoint" />
             <mxPoint x="430" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="430" />
-              <mxPoint x="400" y="510" />
+              <mxPoint x="500" y="440" />
+              <mxPoint x="380" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
