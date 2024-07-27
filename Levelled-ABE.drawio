@@ -206,8 +206,8 @@
             <mxGeometry x="520" y="340" width="70" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="h5dt25u9Qxzl1WXChBWv-65" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;People who are joining Project A, assigned level &amp;gt;= k can decrypt the document encrypted with attribute [[[Project A, Level k&amp;nbsp;]]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="585" width="930" height="30" as="geometry" />
+        <mxCell id="h5dt25u9Qxzl1WXChBWv-65" value="&lt;font size=&quot;1&quot; color=&quot;#ff3333&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;People who are joining Project A, assigned level &amp;gt;= k can decrypt the document encrypted with attribute [[[Project A, Level k&amp;nbsp;]]&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="580" width="1110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h5dt25u9Qxzl1WXChBWv-66" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 21px;&quot;&gt;Levelled ABE model&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="239" y="-60" width="230" height="60" as="geometry" />
