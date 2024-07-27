@@ -259,8 +259,8 @@
         <mxCell id="h5dt25u9Qxzl1WXChBWv-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="690.5" y="82" width="76" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="h5dt25u9Qxzl1WXChBWv-113" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;An Descriptive Illustration for Levelled Attribute-based Encryption&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="53" y="610" width="780" height="40" as="geometry" />
+        <mxCell id="h5dt25u9Qxzl1WXChBWv-113" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;A Descriptive Illustration for Levelled Attribute-based Encryption&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="63" y="610" width="760" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
