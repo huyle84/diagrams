@@ -37,7 +37,7 @@
         <mxCell id="DboaTYH2uHODqQAO1uhh-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#a20025;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="579.08" y="404" width="21.92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#fad7ac;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#a20025;rotation=-90;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="547" y="310.00000000000006" width="20" height="36.85" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.167;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1">
