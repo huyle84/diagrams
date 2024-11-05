@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wzSCYrbY1eyu4skBrsjd-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="440" width="160" height="168.43" as="geometry" />
+          <mxGeometry x="240" y="430" width="160" height="178.43" as="geometry" />
         </mxCell>
         <mxCell id="wzSCYrbY1eyu4skBrsjd-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6F0000;fillColor=#a20025;shape=mxgraph.azure.user;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="380.86" width="47.5" height="50" as="geometry" />
@@ -76,10 +76,10 @@
             <mxPoint x="228" y="656.4300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzSCYrbY1eyu4skBrsjd-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.917;entryY=0.473;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="wzSCYrbY1eyu4skBrsjd-1">
+        <mxCell id="wzSCYrbY1eyu4skBrsjd-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="520" as="sourcePoint" />
-            <mxPoint x="410" y="520" as="targetPoint" />
+            <mxPoint x="387" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wzSCYrbY1eyu4skBrsjd-52" value="randomize a part of key&lt;div&gt;&amp;nbsp;and publish&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rotation=30;" vertex="1" parent="1">
@@ -89,7 +89,10 @@
           <mxGeometry x="120" y="558.4300000000001" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wzSCYrbY1eyu4skBrsjd-54" value="randomize a part of key&lt;div&gt;&amp;nbsp;and publish&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="499.29" width="150" height="40" as="geometry" />
+          <mxGeometry x="399" y="498.43" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wzSCYrbY1eyu4skBrsjd-55" value="Pulblic&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="419.29" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
