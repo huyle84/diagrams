@@ -52,7 +52,7 @@
         <mxCell id="wzSCYrbY1eyu4skBrsjd-43" value="randomized keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="469.28999999999996" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzSCYrbY1eyu4skBrsjd-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.key;" vertex="1" parent="1">
+        <mxCell id="wzSCYrbY1eyu4skBrsjd-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#ae4132;fillColor=#fad9d5;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.key;" vertex="1" parent="1">
           <mxGeometry x="296" y="540" width="18.86" height="39.29" as="geometry" />
         </mxCell>
         <mxCell id="wzSCYrbY1eyu4skBrsjd-46" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
