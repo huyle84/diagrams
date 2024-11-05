@@ -22,7 +22,7 @@
         <mxCell id="DboaTYH2uHODqQAO1uhh-5" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="605" y="388" width="64" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-7" value="&lt;b&gt;Access policy&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;= (X and Y and Z)&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;or (A and B and C) &amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-7" value="&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;Access policy&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;= (X and Y and Z)&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;or (A and B and C) &amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="567" y="456" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-8" value="att X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -40,22 +40,22 @@
         <mxCell id="DboaTYH2uHODqQAO1uhh-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#a20025;rotation=-90;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="547" y="310.00000000000006" width="20" height="36.85" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.167;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.167;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#A20025;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="473.35000000000014" y="276.1899999999999" as="sourcePoint" />
-            <mxPoint x="570" y="400" as="targetPoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.961;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=70;exitDy=12.5;exitPerimeter=0;entryPerimeter=0;strokeWidth=3;fillColor=#a20025;strokeColor=#EA6B66;" edge="1" parent="1" source="DboaTYH2uHODqQAO1uhh-21" target="DboaTYH2uHODqQAO1uhh-25">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.961;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=70;exitDy=12.5;exitPerimeter=0;entryPerimeter=0;strokeWidth=3;fillColor=#a20025;strokeColor=#A20025;" edge="1" parent="1" source="DboaTYH2uHODqQAO1uhh-21" target="DboaTYH2uHODqQAO1uhh-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="400" as="sourcePoint" />
             <mxPoint x="449.56886227544896" y="299.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-17" value="X and Y and Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-55;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-17" value="&lt;font color=&quot;#a20025&quot;&gt;X and Y and Z&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-55;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="318.5" y="320.73" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#EA6B66;" edge="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#A20025;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="460" as="sourcePoint" />
             <mxPoint x="275" y="458" as="targetPoint" />
@@ -73,7 +73,7 @@
         <mxCell id="DboaTYH2uHODqQAO1uhh-26" value="Key Issue Authority" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="190" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-29" value="X and Y and Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=50;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-29" value="&lt;font color=&quot;#a20025&quot;&gt;X and Y and Z&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=50;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="484" y="319.86" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-30" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
