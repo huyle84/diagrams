@@ -22,8 +22,8 @@
         <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#ae4132;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#fad9d5;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="542" y="365.1500000000001" width="20" height="36.85" as="geometry" />
         </mxCell>
-        <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-39" value="PUBLIC CLOUD/&amp;nbsp;&lt;div&gt;BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="495" y="259.85999999999996" width="120" height="40" as="geometry" />
+        <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-39" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="490" y="259.85999999999996" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-41" value="randomized&lt;div&gt;&amp;nbsp;key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="504" y="330" width="90" height="40" as="geometry" />
