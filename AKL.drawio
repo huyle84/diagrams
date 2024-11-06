@@ -62,11 +62,11 @@
           <mxGeometry x="517" y="516" width="69" height="82" as="geometry" />
         </mxCell>
         <mxCell id="-3d-z_0FP5NBYgMmmERz-7" value="&lt;font color=&quot;#a20025&quot;&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="523.5" y="372.86" width="30" height="30" as="geometry" />
+          <mxGeometry x="549.5" y="373.57" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3d-z_0FP5NBYgMmmERz-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="537" y="402.86" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="sourcePoint" />
             <mxPoint x="540" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
