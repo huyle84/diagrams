@@ -25,13 +25,13 @@
         <mxCell id="DboaTYH2uHODqQAO1uhh-7" value="&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;Access policy&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;= (X and Y and Z)&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#a20025&quot;&gt;or (A and B and C) &amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="567" y="456" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-8" value="att X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-8" value="att X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="214" y="312.93" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-9" value="att Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-9" value="att Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="221" y="428" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DboaTYH2uHODqQAO1uhh-10" value="att Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="DboaTYH2uHODqQAO1uhh-10" value="att Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="219" y="514" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#a20025;fontColor=#ffffff;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="Kve-WnFk3uCvHriM4wU--1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="220" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Kve-WnFk3uCvHriM4wU--2" value="atts X, Y, Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Kve-WnFk3uCvHriM4wU--2" value="atts X, Y, Z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="446" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kve-WnFk3uCvHriM4wU--3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
