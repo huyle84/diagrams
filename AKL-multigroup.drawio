@@ -61,8 +61,8 @@
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-14" value="att&amp;nbsp;&lt;font color=&quot;#a20025&quot;&gt;X,&lt;/font&gt;&amp;nbsp;Atqt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="153.25" y="635" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3IqpD6B1Du6_-x1D-pc-15" value="Malicious&amp;nbsp;&lt;div&gt;group&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="16.5" y="410" width="80" height="40" as="geometry" />
+        <mxCell id="r3IqpD6B1Du6_-x1D-pc-15" value="Malicious group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="9.5" y="423" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="172" y="313.86" width="47.5" height="50" as="geometry" />
