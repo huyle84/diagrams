@@ -102,12 +102,11 @@
         <mxCell id="bMzYnL8LB-Upg9_T-w9R-34" value="$$\bar{a}bc$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="478" y="496" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bMzYnL8LB-Upg9_T-w9R-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bMzYnL8LB-Upg9_T-w9R-17" target="bMzYnL8LB-Upg9_T-w9R-14">
+        <mxCell id="bMzYnL8LB-Upg9_T-w9R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.17;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bMzYnL8LB-Upg9_T-w9R-17" target="bMzYnL8LB-Upg9_T-w9R-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="263" y="581" />
-              <mxPoint x="263" y="528" />
-              <mxPoint x="451" y="528" />
+              <mxPoint x="250" y="581" />
+              <mxPoint x="250" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
