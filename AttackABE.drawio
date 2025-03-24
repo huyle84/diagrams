@@ -66,7 +66,7 @@
           <mxGeometry x="405" y="472.04" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-33" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" parent="1" vertex="1">
-          <mxGeometry x="591.04" y="260" width="40" height="32" as="geometry" />
+          <mxGeometry x="609.04" y="260" width="40" height="32" as="geometry" />
         </mxCell>
         <mxCell id="DboaTYH2uHODqQAO1uhh-35" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="406" y="302.57" width="34" height="31.43" as="geometry" />
@@ -76,7 +76,7 @@
         </mxCell>
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC66;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="604" y="350" as="targetPoint" />
+            <mxPoint x="630" y="340" as="targetPoint" />
             <mxPoint x="124" y="401" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="104" y="401" />
@@ -94,7 +94,7 @@
           <mxGeometry x="590" y="376" width="39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-16" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock_unlocked" vertex="1" parent="1">
-          <mxGeometry x="620.94" y="279.29" width="37" height="50" as="geometry" />
+          <mxGeometry x="641.5" y="278.86" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-17" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(162, 0, 37); color: rgb(51, 0, 0);&quot;&gt;&lt;b&gt;Collude to have attributes {X, Y, Z}&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="215" width="220" height="30" as="geometry" />
