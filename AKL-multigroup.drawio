@@ -31,9 +31,6 @@
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-8" value="randomized&lt;div&gt;&amp;nbsp;key for attribute X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r3IqpD6B1Du6_-x1D-pc-15" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Malicious group&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="75" y="493.5" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="172" y="313.86" width="47.5" height="50" as="geometry" />
         </mxCell>
@@ -87,6 +84,15 @@
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users in t groups have a common attributes X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-5" y="665" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="Group 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="357.07" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-10" value="Group 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="493.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-11" value="Group t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="629.14" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
