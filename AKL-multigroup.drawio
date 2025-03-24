@@ -1,104 +1,104 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.1.1">
   <diagram name="Page-1" id="iNv-rYqBdV9eewJ0w_0u">
-    <mxGraphModel dx="1783" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="10" y="321.79" width="390" height="328.21" as="geometry" />
+          <mxGeometry x="65" y="321.79" width="390" height="328.21" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-13" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="321" y="631.21" width="48" height="50" as="geometry" />
+          <mxGeometry x="376" y="631.21" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="109" y="361.21" width="36.25" height="33.86" as="geometry" />
+          <mxGeometry x="164" y="361.21" width="36.25" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-7" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="280" y="591.21" width="130" height="40" as="geometry" />
+          <mxGeometry x="335" y="591.21" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
-          <mxGeometry x="138.5" y="368" width="28" height="33.86" as="geometry" />
+          <mxGeometry x="193.5" y="368" width="28" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-18" value="" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="631.21" width="69" height="82" as="geometry" />
+          <mxGeometry x="35" y="631.21" width="69" height="82" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-19" value="&lt;font color=&quot;#a20025&quot;&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="339" y="648" width="30" height="30" as="geometry" />
+          <mxGeometry x="394" y="648" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-36" value="Authority" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="49" y="670" width="70" height="30" as="geometry" />
+          <mxGeometry x="104" y="670" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
-          <mxGeometry x="81" y="368" width="33" height="33.86" as="geometry" />
+          <mxGeometry x="136" y="368" width="33" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users in t groups&amp;nbsp;&lt;div&gt;have a common attributes X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="174.46" y="361.21000000000004" width="170" height="40" as="geometry" />
+          <mxGeometry x="229.46" y="361.21000000000004" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="&lt;b&gt;Group 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="36.5" y="416.07" width="70" height="30" as="geometry" />
+          <mxGeometry x="91.5" y="416.07" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-10" value="&lt;b&gt;Group 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="520" width="70" height="30" as="geometry" />
+          <mxGeometry x="115" y="520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-11" value="&lt;b&gt;Group t&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="331" y="425.07" width="70" height="30" as="geometry" />
+          <mxGeometry x="386" y="425.07" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="690" y="339.46000000000004" width="20" height="351.07" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-14" value="Which group did leak the key?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="164" y="500.00000000000006" width="180" height="30" as="geometry" />
+          <mxGeometry x="219" y="500.00000000000006" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="91" y="388" width="43" height="37.07" as="geometry" />
+          <mxGeometry x="146" y="388" width="43" height="37.07" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="145.25" y="378" width="38.75" height="40" as="geometry" />
+          <mxGeometry x="200.25" y="378" width="38.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="114" y="388" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="169" y="388" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="106.5" y="446.07" width="36.25" height="33.86" as="geometry" />
+          <mxGeometry x="161.5" y="446.07" width="36.25" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="136" y="452.86" width="28" height="33.86" as="geometry" />
+          <mxGeometry x="191" y="452.86" width="28" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="78.5" y="452.86" width="33" height="33.86" as="geometry" />
+          <mxGeometry x="133.5" y="452.86" width="33" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="472.86" width="43" height="37.07" as="geometry" />
+          <mxGeometry x="143.5" y="472.86" width="43" height="37.07" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-24" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="142.75" y="462.86" width="38.75" height="40" as="geometry" />
+          <mxGeometry x="197.75" y="462.86" width="38.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="111.5" y="472.86" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="166.5" y="472.86" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="401.86" width="36.25" height="33.86" as="geometry" />
+          <mxGeometry x="317.5" y="401.86" width="36.25" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="292" y="408.65" width="28" height="33.86" as="geometry" />
+          <mxGeometry x="347" y="408.65" width="28" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="408.65" width="33" height="33.86" as="geometry" />
+          <mxGeometry x="289.5" y="408.65" width="33" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="244.5" y="428.65" width="43" height="37.07" as="geometry" />
+          <mxGeometry x="299.5" y="428.65" width="43" height="37.07" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="298.75" y="418.65" width="38.75" height="40" as="geometry" />
+          <mxGeometry x="353.75" y="418.65" width="38.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="428.65" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="322.5" y="428.65" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-45" value="&lt;font color=&quot;#a20025&quot;&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="214.5" y="527.9999999999999" width="30" height="30" as="geometry" />
+          <mxGeometry x="269.5" y="527.9999999999999" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-46" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="209.54" y="529.9999999999999" width="24.96" height="26" as="geometry" />
+          <mxGeometry x="264.53999999999996" y="529.9999999999999" width="24.96" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
