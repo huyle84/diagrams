@@ -95,6 +95,9 @@
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="130" y="306" width="20" height="254" as="geometry" />
         </mxCell>
+        <mxCell id="AaAGdjEsNmVQC-ylxkaZ-8" value="Collusion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="175" y="215" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
