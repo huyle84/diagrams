@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AaAGdjEsNmVQC-ylxkaZ-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="AaAGdjEsNmVQC-ylxkaZ-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;strokeColor=#00CC66;" vertex="1" parent="1">
           <mxGeometry x="130" y="273.96" width="20" height="254" as="geometry" />
         </mxCell>
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-9" value="&lt;font&gt;&lt;span style=&quot;caret-color: rgb(162, 0, 37); color: rgb(51, 26, 0);&quot;&gt;&lt;b&gt;Each user cannot&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;caret-color: rgb(162, 0, 37); color: rgb(51, 26, 0);&quot;&gt;&lt;b&gt;decrypt the plain document&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
