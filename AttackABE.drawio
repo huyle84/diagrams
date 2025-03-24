@@ -96,7 +96,7 @@
           <mxGeometry x="620.94" y="279.29" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AaAGdjEsNmVQC-ylxkaZ-17" value="&lt;font color=&quot;#a20025&quot;&gt;&lt;span style=&quot;caret-color: rgb(162, 0, 37);&quot;&gt;&lt;b&gt;Collude to have attributes (X and Y and Z)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="260" height="30" as="geometry" />
+          <mxGeometry x="237.5" y="215" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
