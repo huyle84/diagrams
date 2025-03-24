@@ -34,14 +34,14 @@
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users in t groups&amp;nbsp;&lt;div&gt;have a common attributes X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="174.46" y="361.21000000000004" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="Group 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="153.63" y="417" width="70" height="30" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="&lt;b&gt;Group 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36.5" y="416.07" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-10" value="Group 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-10" value="&lt;b&gt;Group 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-11" value="Group t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="336" y="425.07" width="60" height="30" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-11" value="&lt;b&gt;Group t&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331" y="425.07" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="690" y="339.46000000000004" width="20" height="351.07" as="geometry" />
