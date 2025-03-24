@@ -26,7 +26,7 @@
           <mxGeometry x="563" y="445.1500000000001" width="20" height="36.85" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-7" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="630" y="249.99999999999994" width="130" height="40" as="geometry" />
+          <mxGeometry x="414" y="289.99999999999994" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-8" value="randomized&lt;div&gt;&amp;nbsp;key for attribute X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="120" height="40" as="geometry" />
