@@ -14,7 +14,7 @@
           <mxGeometry x="122.5" y="411.74" width="36.25" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-7" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="440" y="362.39000000000004" width="130" height="40" as="geometry" />
+          <mxGeometry x="499" y="357.19000000000005" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="152" y="418.53" width="28" height="33.86" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="418.53" width="33" height="33.86" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users in t groups&amp;nbsp;&lt;div&gt;have a common attributes X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120.00000000000001" y="620" width="170" height="40" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users in t groups&amp;nbsp;&lt;div&gt;have a common attribute X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="600" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="&lt;b&gt;Group 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="466.6" width="70" height="30" as="geometry" />
@@ -101,7 +101,19 @@
           <mxGeometry x="370" y="720" width="295" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-49" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;" vertex="1" parent="1">
-          <mxGeometry x="666.8" y="383.33" width="63.2" height="55.2" as="geometry" />
+          <mxGeometry x="540" y="397.19" width="70" height="62.81" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-51" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="585" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="670" as="sourcePoint" />
+            <mxPoint x="290" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-53" value="The Authority issues a key for attribute X&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="269" y="613" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
