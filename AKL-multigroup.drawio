@@ -100,8 +100,8 @@
             <mxPoint x="290" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-53" value="The Authority issues a key for attribute X&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="269" y="613" width="240" height="40" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-53" value="The Authority issues&amp;nbsp;&lt;div&gt;a key for attribute X&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="312.25" y="608.53" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" vertex="1" parent="1">
           <mxGeometry x="423" y="420.65" width="36" height="38.53" as="geometry" />
