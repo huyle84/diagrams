@@ -14,7 +14,7 @@
           <mxGeometry x="144.5" y="422.74" width="36.25" height="33.86" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-7" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="500" y="378.53000000000003" width="130" height="40" as="geometry" />
+          <mxGeometry x="503" y="409.53000000000003" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="174" y="429.53" width="28" height="33.86" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="268" y="520.18" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-49" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;" vertex="1" parent="1">
-          <mxGeometry x="533" y="415.44" width="70" height="62.81" as="geometry" />
+          <mxGeometry x="533" y="447.37" width="70" height="62.81" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,19 +116,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-59" value="One of these user//group leaks&amp;nbsp;&lt;div&gt;a randomized version of the key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="343" y="468.17999999999995" width="190" height="40" as="geometry" />
+          <mxGeometry x="343" y="467.59999999999997" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Tk-aLL4FKmr5D07AJqrm-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="510" as="sourcePoint" />
             <mxPoint x="500" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-63" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" vertex="1" parent="1">
-          <mxGeometry x="490" y="508.25" width="36" height="38.53" as="geometry" />
+          <mxGeometry x="496" y="515.25" width="36" height="38.53" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-64" value="&lt;font color=&quot;#a20025&quot;&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="514.4499999999999" width="30" height="30" as="geometry" />
+          <mxGeometry x="506" y="522.4499999999999" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
