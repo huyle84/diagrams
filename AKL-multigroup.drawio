@@ -115,7 +115,7 @@
             <mxPoint x="522" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-59" value="(2) One of these user//group&amp;nbsp;&lt;div&gt;randomizes and then leaks the key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-59" value="(2) One of these users//groups&amp;nbsp;&lt;div&gt;randomizes and then leaks the key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="333" y="467.59999999999997" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Tk-aLL4FKmr5D07AJqrm-49">
