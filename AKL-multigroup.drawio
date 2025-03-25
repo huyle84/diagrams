@@ -31,8 +31,8 @@
         <mxCell id="r3IqpD6B1Du6_-x1D-pc-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="116.5" y="429.53" width="33" height="33.86" as="geometry" />
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="All users/groups&amp;nbsp;&lt;div&gt;have a common attribute X&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="280" width="170" height="40" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-1" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;All users/groups&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;have a common attribute X&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="57" y="635.53" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-9" value="&lt;b&gt;User/Group 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="57" y="477.6" width="100" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="248" y="564.39" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-14" value="Which user/group&amp;nbsp;&lt;div&gt;did leak the key?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="551.0000000000001" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="553.3900000000001" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#b85450;fillColor=#f8cecc;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="126.5" y="449.53" width="43" height="37.07" as="geometry" />
