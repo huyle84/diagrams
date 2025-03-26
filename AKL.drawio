@@ -40,7 +40,7 @@
             <mxPoint x="515" y="452.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-58" value="randomize" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;rotation=-20;" parent="1" vertex="1">
+        <mxCell id="UF0n6Xu2Qbzrm_0WNL3c-58" value="randomize" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;rotation=-20;" parent="1" vertex="1">
           <mxGeometry x="369" y="393.15" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-3d-z_0FP5NBYgMmmERz-1" value="&lt;font color=&quot;#a20025&quot;&gt;X,&lt;/font&gt;&amp;nbsp;A&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
