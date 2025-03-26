@@ -347,7 +347,7 @@
         </mxCell>
         <mxCell id="Tk-aLL4FKmr5D07AJqrm-148" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1110" as="sourcePoint" />
+            <mxPoint x="690" y="1110" as="sourcePoint" />
             <mxPoint x="520" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -363,8 +363,8 @@
             <mxPoint x="348" y="976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tk-aLL4FKmr5D07AJqrm-153" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ff0000&quot;&gt;Anonymity level&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ff0000&quot;&gt;&amp;nbsp;of 1/t&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;rotation=25;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1030.14" width="110" height="40" as="geometry" />
+        <mxCell id="Tk-aLL4FKmr5D07AJqrm-153" value="&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#ff0000&quot;&gt;Anonymity level&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 13px;&quot;&gt;of 1/t&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1042.14" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
