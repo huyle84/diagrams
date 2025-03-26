@@ -196,8 +196,8 @@
         <mxCell id="zeulH0I8SyOPekqukRsM-20" value="PUBLIC CLOUD&lt;div&gt;&amp;nbsp;or BLACK MARKET&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510.5" y="1047.9999999999998" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zeulH0I8SyOPekqukRsM-21" value="randomized&lt;div&gt;&amp;nbsp;key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="524.5" y="1118.1399999999999" width="90" height="40" as="geometry" />
+        <mxCell id="zeulH0I8SyOPekqukRsM-21" value="randomized" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="527" y="1131.56" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zeulH0I8SyOPekqukRsM-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#ae4132;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#fad9d5;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="458.5" y="1152.71" width="20" height="36.85" as="geometry" />
@@ -277,8 +277,8 @@
         <mxCell id="zeulH0I8SyOPekqukRsM-41" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;1/t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="272.5" y="1117.1399999999999" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zeulH0I8SyOPekqukRsM-42" value="randomized&lt;div&gt;&amp;nbsp;key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="1227.1399999999999" width="90" height="40" as="geometry" />
+        <mxCell id="zeulH0I8SyOPekqukRsM-42" value="randomized" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="556.5" y="1232.1399999999999" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zeulH0I8SyOPekqukRsM-43" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 22px;&quot;&gt;?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="1162.6399999999999" width="40" height="40" as="geometry" />
