@@ -66,8 +66,8 @@
         </mxCell>
         <mxCell id="-3d-z_0FP5NBYgMmmERz-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="440" as="sourcePoint" />
-            <mxPoint x="540" y="510" as="targetPoint" />
+            <mxPoint x="540" y="443" as="sourcePoint" />
+            <mxPoint x="540" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-3d-z_0FP5NBYgMmmERz-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#ae4132;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#fad9d5;rotation=0;" parent="1" vertex="1">
