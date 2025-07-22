@@ -7,6 +7,11 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-1" value="Mã hoá" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-2" value="Giải mã" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,14 +30,25 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-7" value="khoá bí mật" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="318" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-8" value="Bản rõ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-9" target="IC1V_6KefhM5zxOQnxIs-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-9" value="Bản mã&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="384" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-10" value="Bản rõ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="632" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-1" target="IC1V_6KefhM5zxOQnxIs-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
