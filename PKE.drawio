@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="28.0.6">
   <diagram name="Page-1" id="bZWqScsN9GADdsGWAhHV">
-    <mxGraphModel dx="679" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,8 +20,8 @@
             <mxPoint x="290" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-3" value="Tạo khoá" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-3" value="Bộ sinh khoá" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-6" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="245" width="110" height="40" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-16" value="Người gửi (Alice)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="142" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-17" target="IC1V_6KefhM5zxOQnxIs-2">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +57,7 @@
           <mxGeometry x="610" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-24" value="Bản rõ gửi&amp;nbsp;&lt;div&gt;cho Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="245" width="80" height="40" as="geometry" />
+          <mxGeometry x="132" y="245" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-16" target="IC1V_6KefhM5zxOQnxIs-1">
           <mxGeometry relative="1" as="geometry" />
