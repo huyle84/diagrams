@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-3" value="Bộ sinh khoá" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="610" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-6" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="245" width="110" height="40" as="geometry" />
@@ -61,6 +61,18 @@
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-16" target="IC1V_6KefhM5zxOQnxIs-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-28" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.306;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.615;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-31" value="khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
