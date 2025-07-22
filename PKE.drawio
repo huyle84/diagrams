@@ -26,7 +26,7 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-6" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="245" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-7" value="khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-7" value="Khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="468" y="245" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-9" target="IC1V_6KefhM5zxOQnxIs-2">
@@ -47,13 +47,13 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-1" target="IC1V_6KefhM5zxOQnxIs-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-16" value="Người gửi (Alice)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-16" value="Người gửi (Alice)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="142" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-17" target="IC1V_6KefhM5zxOQnxIs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-17" value="Người nhận (Bob)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-17" value="Người nhận (Bob)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="610" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-24" value="Bản rõ gửi&amp;nbsp;&lt;div&gt;cho Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-16" target="IC1V_6KefhM5zxOQnxIs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-28" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-28" value="Khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.306;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
@@ -71,7 +71,7 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.615;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-31" value="khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-31" value="Khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="677" y="160" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
