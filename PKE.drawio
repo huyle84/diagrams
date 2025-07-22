@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-1" value="Mã hoá" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-1" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Mã hoá&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="230" y="302" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-2">
@@ -12,7 +12,7 @@
             <mxPoint x="660" y="332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-2" value="Giải mã" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Giải mã&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="302" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-17">
@@ -20,19 +20,19 @@
             <mxPoint x="290" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-3" value="Bộ sinh khoá" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bộ sinh khoá&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-6" value="khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="245" width="110" height="40" as="geometry" />
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá công khai&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;của Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="245" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-7" value="Khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="468" y="245" width="90" height="40" as="geometry" />
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá bí mật&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;của Bob&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="473" y="245" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-9" target="IC1V_6KefhM5zxOQnxIs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-9" value="Bản mã&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản mã&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="384" y="372" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.3;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-10">
@@ -41,29 +41,29 @@
             <mxPoint x="677.0344827586207" y="361" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-10" value="Bản rõ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản rõ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="659" y="322" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-1" target="IC1V_6KefhM5zxOQnxIs-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-16" value="Người gửi (Alice)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Người gửi (Alice)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="142" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-17" target="IC1V_6KefhM5zxOQnxIs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-17" value="Người nhận (Bob)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Người nhận (Bob)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="610" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-24" value="Bản rõ gửi&amp;nbsp;&lt;div&gt;cho Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản rõ gửi&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;cho Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="132" y="245" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-16" target="IC1V_6KefhM5zxOQnxIs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-28" value="Khoá công khai&amp;nbsp;&lt;div&gt;của Bob&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="160" width="110" height="40" as="geometry" />
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá công khai&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;cho Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IC1V_6KefhM5zxOQnxIs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.306;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
           <mxGeometry relative="1" as="geometry" />
@@ -71,8 +71,8 @@
         <mxCell id="IC1V_6KefhM5zxOQnxIs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.615;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IC1V_6KefhM5zxOQnxIs-3" target="IC1V_6KefhM5zxOQnxIs-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC1V_6KefhM5zxOQnxIs-31" value="Khoá bí mật&lt;div&gt;của Bob&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="677" y="160" width="90" height="40" as="geometry" />
+        <mxCell id="IC1V_6KefhM5zxOQnxIs-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá bí mật&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;cho Bob&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="682" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
