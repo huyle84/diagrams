@@ -22,30 +22,29 @@
         <mxCell id="PzjpUxTsahavWzxpe8rZ-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Ký&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="744" y="632" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.465;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-19" target="PzjpUxTsahavWzxpe8rZ-5">
+        <mxCell id="PzjpUxTsahavWzxpe8rZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="PzjpUxTsahavWzxpe8rZ-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="564" y="640" as="targetPoint" />
+            <mxPoint x="638.0000000000002" y="652.4199999999998" as="targetPoint" />
+            <mxPoint x="928.2" y="580.0000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="928" y="770" />
+              <mxPoint x="580" y="770" />
+              <mxPoint x="580" y="652" />
+              <mxPoint x="578" y="652" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bộ sinh khoá&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="734" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá công khai&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;của Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="578" y="585" width="100" height="40" as="geometry" />
+          <mxGeometry x="926" y="692" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá bí mật&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;của Bob&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="727" y="585" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="PzjpUxTsahavWzxpe8rZ-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="712" y="722.0285714285714" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="800" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản mã&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="656" y="704" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-5" target="PzjpUxTsahavWzxpe8rZ-13">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Người dùng (Alice)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="120" height="40" as="geometry" />
@@ -56,11 +55,13 @@
         <mxCell id="PzjpUxTsahavWzxpe8rZ-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Người ký (Bob)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="864" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản rõ gửi&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;cho Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="585" width="80" height="40" as="geometry" />
+        <mxCell id="PzjpUxTsahavWzxpe8rZ-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Thông điệp cần Bob ký&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="580" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-17" target="PzjpUxTsahavWzxpe8rZ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PzjpUxTsahavWzxpe8rZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá công khai&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;cho Bob&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="806" y="500" width="100" height="40" as="geometry" />
