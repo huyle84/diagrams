@@ -72,7 +72,7 @@
           <mxGeometry x="936" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Người xác thực (Carol)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="607" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.654;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-19" target="PzjpUxTsahavWzxpe8rZ-5">
           <mxGeometry relative="1" as="geometry" />
