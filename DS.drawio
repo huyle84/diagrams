@@ -19,6 +19,14 @@
         <mxCell id="PzjpUxTsahavWzxpe8rZ-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Xác thực&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PzjpUxTsahavWzxpe8rZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-7" target="PzjpUxTsahavWzxpe8rZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="700" />
+              <mxPoint x="530" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Ký&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="744" y="632" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,9 +38,6 @@
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá bí mật&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;của Bob&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="580" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PzjpUxTsahavWzxpe8rZ-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bản mã&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="656" y="704" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PzjpUxTsahavWzxpe8rZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PzjpUxTsahavWzxpe8rZ-17">
           <mxGeometry relative="1" as="geometry">
