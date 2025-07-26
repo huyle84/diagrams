@@ -78,7 +78,7 @@
         <mxCell id="SDA9QaCyXNHpVYX47S2c-35" value="$$h=Hash(y, R, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="162" y="-527" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDA9QaCyXNHpVYX47S2c-36" value="$$s=R+x\cdot h&amp;nbsp; \in G$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SDA9QaCyXNHpVYX47S2c-36" value="$$s=r+x\cdot h&amp;nbsp; \in G$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="-507" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
