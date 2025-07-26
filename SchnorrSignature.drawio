@@ -35,6 +35,9 @@
         <mxCell id="SDA9QaCyXNHpVYX47S2c-11" value="Bộ sinh khoá" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="-770" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SDA9QaCyXNHpVYX47S2c-13" value="Thông điệp &lt;i&gt;m&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-630" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
