@@ -99,7 +99,7 @@
           <mxGeometry x="413" y="-559" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-43" value="$$h&#39;=Hash(y, R&#39;, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="433" y="-537" width="140" height="30" as="geometry" />
+          <mxGeometry x="431" y="-537" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-44" value="$$h&#39; \stackrel{?}{=} h$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="-518" width="150" height="30" as="geometry" />
