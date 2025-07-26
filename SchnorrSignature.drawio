@@ -41,7 +41,7 @@
           <mxGeometry x="305" y="-624" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá bí mật &lt;i&gt;sk&lt;/i&gt;:&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-720" width="100" height="30" as="geometry" />
+          <mxGeometry x="138" y="-720" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Khoá công khai &lt;i&gt;pk:&lt;/i&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="-720" width="120" height="30" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="453.5" y="-480" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-55" value="$$x\in Z_q$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-705.67" width="90" height="30" as="geometry" />
+          <mxGeometry x="142" y="-705.67" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-56" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;$$(p, q, g, y)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="469" y="-624" width="100" height="30" as="geometry" />
