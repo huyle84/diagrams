@@ -80,8 +80,8 @@
         <mxCell id="SDA9QaCyXNHpVYX47S2c-34" value="$$R=g^r \in G$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="159" y="-548" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDA9QaCyXNHpVYX47S2c-35" value="$$h=H(y, R, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="167" y="-527" width="120" height="30" as="geometry" />
+        <mxCell id="SDA9QaCyXNHpVYX47S2c-35" value="$$h=Hash(y, R, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157" y="-527" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-36" value="$$s=R+x\cdot h&amp;nbsp; \in G$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="-507" width="150" height="30" as="geometry" />
@@ -98,8 +98,8 @@
         <mxCell id="SDA9QaCyXNHpVYX47S2c-42" value="$$R&#39;=g^s\cdot y^{-h} \in G$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="413" y="-559" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SDA9QaCyXNHpVYX47S2c-43" value="$$h&#39;=H(y, R&#39;, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="437" y="-537" width="120" height="30" as="geometry" />
+        <mxCell id="SDA9QaCyXNHpVYX47S2c-43" value="$$h&#39;=Hash(y, R&#39;, m)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="433" y="-537" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDA9QaCyXNHpVYX47S2c-44" value="$$h&#39; \stackrel{?}{=} h$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="-518" width="150" height="30" as="geometry" />
