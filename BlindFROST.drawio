@@ -38,10 +38,10 @@
           <mxGeometry x="1347.5" y="690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-38" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$z=\sum_{i\in S} z_i,$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1503.5" y="745" width="270" height="40" as="geometry" />
+          <mxGeometry x="1488.5" y="745" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-39" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$z&#39;=z+a,$$&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1713.5" y="749" width="150" height="40" as="geometry" />
+          <mxGeometry x="1698.5" y="749" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-40" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$(B, \rho_i, c)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1323.5" y="640" width="200" height="40" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1562.5" y="614" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-44" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$c=c&#39;+b$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1559.5" y="650" width="140" height="40" as="geometry" />
+          <mxGeometry x="1554.5" y="650" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-45" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$B=\{(i, D_i, E_i)\}_{i\in S}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525.5" y="453" width="320" height="40" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1543.5" y="493" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-47" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$\sigma=(R&#39;, z&#39;)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1538.5" y="790" width="220" height="40" as="geometry" />
+          <mxGeometry x="1517.5" y="790" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sj3ZuSewM-TSqzSfG-fM-48" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$z_i=d_i+e_i\cdot \rho_i+\lambda_i\cdot s_i\cdot c$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="815" y="680" width="570" height="40" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="943.5" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y0hkJlq2j4WV5lioh10N-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$g^{z_i}\stackrel{?}{=}R_i\cdot Y^{\lambda_i c}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1393.5" y="690" width="540" height="40" as="geometry" />
+          <mxGeometry x="1376.5" y="690" width="540" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
