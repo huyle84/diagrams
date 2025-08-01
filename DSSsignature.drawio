@@ -20,7 +20,7 @@
           <mxGeometry x="66.5" y="310" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="432" width="390" height="163" as="geometry" />
+          <mxGeometry x="-96" y="433" width="390" height="163" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-7" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Người nhận&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="312" width="50" height="80" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry x="315" y="175" width="20" height="115" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$r=(g^k \bmod p) \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-124" y="480" width="330" height="40" as="geometry" />
+          <mxGeometry x="-124" y="513" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-19" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$h=Hash(m)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="520" width="190" height="40" as="geometry" />
+          <mxGeometry x="-100" y="480" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-20" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$s=k^{-1}(r+x\cdot h) &amp;nbsp;\bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="549" width="370" height="40" as="geometry" />
+          <mxGeometry x="-130" y="550" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-21" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Chọn ngẫu nhiên&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-100" y="444.99999999999994" width="180" height="40" as="geometry" />
