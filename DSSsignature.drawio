@@ -58,7 +58,7 @@
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-19" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$h=Hash(m)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-100" y="480" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhbaP9E7x-E9a4_xxzBg-20" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$s=k^{-1}(r+x\cdot h) &amp;nbsp;\bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="fhbaP9E7x-E9a4_xxzBg-20" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$s=k^{-1}(h+x\cdot r) &amp;nbsp;\bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-130" y="550" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-21" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Chọn ngẫu nhiên&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
