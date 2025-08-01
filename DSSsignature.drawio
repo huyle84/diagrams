@@ -8,37 +8,34 @@
           <mxGeometry x="-140" y="150" width="880" height="880" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="465" width="283" height="118" as="geometry" />
+          <mxGeometry x="427" y="440" width="303" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$w=s^{-1} \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="465" width="250" height="40" as="geometry" />
+          <mxGeometry x="412" y="440" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fhbaP9E7x-E9a4_xxzBg-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$h&#39;=Hash(y, m)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="457" y="505" width="220" height="40" as="geometry" />
+        <mxCell id="fhbaP9E7x-E9a4_xxzBg-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$h=Hash(m)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="435" y="473.5" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-5" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Người ký&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="66.5" y="310" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="437" width="390" height="153" as="geometry" />
+          <mxGeometry x="-100" y="432" width="390" height="163" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-7" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Người nhận&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="538" y="312" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-8" value="&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&amp;nbsp;$$v\stackrel{?}{=} r$$&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="780" width="250" height="70" as="geometry" />
+          <mxGeometry x="433" y="565" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;So sánh&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="770" width="100" height="40" as="geometry" />
+          <mxGeometry x="430" y="575" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fhbaP9E7x-E9a4_xxzBg-6" target="fhbaP9E7x-E9a4_xxzBg-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-11" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$(m, r, s)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="478" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fhbaP9E7x-E9a4_xxzBg-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$x\in Z_q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="169" y="175" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="481" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Khoá bí mật của người ký:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-56.5" y="175" width="270" height="40" as="geometry" />
@@ -53,47 +50,50 @@
           <mxGeometry x="572" y="215" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="299" y="175" width="20" height="115" as="geometry" />
+          <mxGeometry x="315" y="175" width="20" height="115" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-18" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$r=(g^k \bmod p) \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-124" y="485" width="330" height="40" as="geometry" />
+          <mxGeometry x="-124" y="480" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-19" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$h=Hash(m)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="525" width="190" height="40" as="geometry" />
+          <mxGeometry x="-102" y="520" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-20" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$s=k^{-1}(r+x\cdot h) &amp;nbsp;\bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="550" width="370" height="40" as="geometry" />
+          <mxGeometry x="-130" y="549" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-21" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Chọn ngẫu nhiên&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="449.99999999999994" width="180" height="40" as="geometry" />
+          <mxGeometry x="-100" y="444.99999999999994" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-22" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$k \in \{1,\cdots, q-1\}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="39" y="449.99999999999994" width="280" height="40" as="geometry" />
+          <mxGeometry x="39" y="444.99999999999994" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-23" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;$$(p, q, g, Hash)$$&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="94" y="260" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-24" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Tham số hệ thống:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-62" y="260" width="200" height="40" as="geometry" />
+          <mxGeometry x="-62" y="263" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="566" y="300" as="targetPoint" />
-            <mxPoint x="319" y="232" as="sourcePoint" />
+            <mxPoint x="340" y="232" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="423" y="232" />
               <mxPoint x="567" y="232" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhbaP9E7x-E9a4_xxzBg-27" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_1=h&#39;\cdot w \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="595" width="260" height="30" as="geometry" />
+        <mxCell id="fhbaP9E7x-E9a4_xxzBg-27" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_1=h\cdot w \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402" y="500" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-28" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;$$u_2=r\cdot w \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412" y="640" width="260" height="30" as="geometry" />
+          <mxGeometry x="400" y="525" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhbaP9E7x-E9a4_xxzBg-29" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;$$v=(g^{u_1}\cdot y^{u_2} \bmod p) \bmod q$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="740" width="260" height="30" as="geometry" />
+          <mxGeometry x="450" y="550" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhbaP9E7x-E9a4_xxzBg-30" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;$$x\leq q-1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="175" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
