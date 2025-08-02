@@ -56,7 +56,7 @@
           <mxGeometry x="167" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pfRf6pYZxzb6v7JtC61w-14" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Adversary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="567" y="90" width="130" height="40" as="geometry" />
+          <mxGeometry x="614" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pfRf6pYZxzb6v7JtC61w-17" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;$$b{\gets}_{\$} \{0,1\}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="60" height="30" as="geometry" />
