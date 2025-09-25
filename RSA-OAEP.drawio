@@ -7,7 +7,7 @@
         <mxCell id="BXDDLQ83dzlflyOV_idQ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$m$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="191" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BXDDLQ83dzlflyOV_idQ-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;000..000&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$0..0$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="313" y="600" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BXDDLQ83dzlflyOV_idQ-4" target="BXDDLQ83dzlflyOV_idQ-12">
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;$$r$$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="120" height="30" as="geometry" />
+          <mxGeometry x="460" y="600" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;$$G$$&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="80" height="80" as="geometry" />
@@ -24,13 +24,13 @@
         <mxCell id="BXDDLQ83dzlflyOV_idQ-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$H$$&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BXDDLQ83dzlflyOV_idQ-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;$$X$$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;$$X=m||0...0 \oplus G(r)$$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="920" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BXDDLQ83dzlflyOV_idQ-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;$$Y$$&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="479" y="920" width="120" height="30" as="geometry" />
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;$$Y=H(X) \oplus r$$&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="920" width="161" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BXDDLQ83dzlflyOV_idQ-12" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-12" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="530" y="830" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="BXDDLQ83dzlflyOV_idQ-12">
@@ -38,7 +38,7 @@
             <mxPoint x="540" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BXDDLQ83dzlflyOV_idQ-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="710" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BXDDLQ83dzlflyOV_idQ-15">
@@ -96,6 +96,12 @@
         </mxCell>
         <mxCell id="BXDDLQ83dzlflyOV_idQ-32" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;$$r$$&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="760" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-33" value="&lt;b style=&quot;font-size: 18px; text-wrap-mode: wrap;&quot;&gt;$$G(r)$$&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="689" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BXDDLQ83dzlflyOV_idQ-34" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: wrap;&quot;&gt;$$m||0...0$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="675" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
