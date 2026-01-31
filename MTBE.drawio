@@ -46,6 +46,27 @@
         <mxCell id="DwoTNIEiF7x-__9Lt_5v-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" value="" vertex="1">
           <mxGeometry height="45" width="59" x="497" y="745" as="geometry" />
         </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-15" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" value="" vertex="1">
+          <mxGeometry height="45" width="59" x="700" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-16" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" value="" vertex="1">
+          <mxGeometry height="45" width="59" x="569" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-17" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.standing_man_2;" value="" vertex="1">
+          <mxGeometry height="62" width="22" x="598.5" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-18" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.standing_man_2;" value="" vertex="1">
+          <mxGeometry height="62" width="22" x="670" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-19" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.standing_man_2;" value="" vertex="1">
+          <mxGeometry height="62" width="22" x="670" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-20" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.standing_man_2;" value="" vertex="1">
+          <mxGeometry height="62" width="22" x="700" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="DwoTNIEiF7x-__9Lt_5v-21" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.people.standing_man_2;" value="" vertex="1">
+          <mxGeometry height="62" width="22" x="710" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
