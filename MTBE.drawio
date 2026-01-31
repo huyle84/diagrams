@@ -245,7 +245,7 @@
           <mxGeometry height="30" width="60" x="678" y="660" as="geometry" />
         </mxCell>
         <mxCell id="DwoTNIEiF7x-__9Lt_5v-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;threshold t&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;m&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="285" y="770" as="geometry" />
+          <mxGeometry height="30" width="125" x="263" y="760" as="geometry" />
         </mxCell>
         <mxCell id="DwoTNIEiF7x-__9Lt_5v-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;threshold t&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;j&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="173" y="173" as="geometry" />
