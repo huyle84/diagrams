@@ -200,7 +200,7 @@
           <mxGeometry height="30" width="90" x="267" y="730" as="geometry" />
         </mxCell>
         <mxCell id="DwoTNIEiF7x-__9Lt_5v-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="header&amp;nbsp;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Hdr&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;implicit keys&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; K&lt;sub&gt;1&lt;/sub&gt;, ..., K&lt;sub&gt;m&lt;/sub&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="151" x="39" y="585" as="geometry" />
+          <mxGeometry height="30" width="190" y="585" as="geometry" />
         </mxCell>
         <mxCell id="DwoTNIEiF7x-__9Lt_5v-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="header&amp;nbsp;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Hdr&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="237" y="334" as="geometry" />
